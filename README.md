@@ -7,7 +7,7 @@
 ## Установка
 
 Для установки виджета нужно скачать последнею версию виджета тут
-garantex-widget-calculator.js
+[garantex-widget-calculator.js](https://github.com/garantexio/calculator-widget/releases/download/1.0.0/garantex-calculator-widget.min.js)
 
 Добавить на страницу в нужное место контейнер в котором будет происходить инициализация виджета.
 
